@@ -1,0 +1,17 @@
+# Cocaine releases
+
+> Cocaine is a macOS menu bar app that keeps your Mac awake for a set time, with an optional mouse and trackpad scroll reverser. This repository hosts only the release zips (current version 1.3, 2026-10-09); the source is not public. Installed copies check this repository's releases once a day and update themselves.
+
+- Install: download `Cocaine-<version>.zip` from the latest release, unzip, move `Cocaine.app` to Applications, right-click and choose Open the first time (the app is not notarized).
+- Copies on version 1.2 can't see updates and need one manual install of 1.3.
+- There is no Homebrew cask for Cocaine.
+
+## Docs
+
+- [README](https://github.com/QuentinCar0n/cocaine-releases/blob/main/README.md): what Cocaine is, install, how updates work, FAQ
+- [Releases](https://github.com/QuentinCar0n/cocaine-releases/releases): release notes and zips for every version
+
+## Optional
+
+- [QuentinCar0n Homebrew tap](https://github.com/QuentinCar0n/homebrew-tap): Homebrew casks for the same author's macOS apps
+- [MultiClaude](https://github.com/QuentinCar0n/multiclaude): another macOS menu bar app by the same author
